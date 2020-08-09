@@ -9,3 +9,12 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - In this assignment we built a static users site with Github Pages 
 - Includes a github repo for access to all the code.
 - Look at how high quality my work is!
+
+### [What I learned]()
+- How to input icons.
+- How to adjust and create headers, titles, and bulletted lists
+- How to bring in files from finder i.e. images into the img directory
+- How to basically build a website on github!
+
+---
+
