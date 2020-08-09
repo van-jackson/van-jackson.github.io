@@ -7,6 +7,10 @@ title: "About Me"
 ![](img/IMG_5464.jpg){width="50%"}
 <center>
 
+<center>
+'r icon::fa('globe', color = 'blue', size = 5)'
+<center>
+
 [Lorem ipsum](https://www.lipsum.com/) I am a fourth year undergraduate student at University of California, Santa Barbara. I am a GIS major focused on data analysis. As of right now I am interested in population distribution and their relations to geographical features.
 
 Outside of school I work as a valet/bellman for a hotel in Newport Beach. My hobbies also include hiking, surfing, and rock climbing.

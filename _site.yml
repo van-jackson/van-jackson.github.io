@@ -7,10 +7,14 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-globe
       href: geog176A.html
+    - text: "CV"
+      icon: fa-rocket
+      href: fileforcv.html
   right:
     - icon: fa-github
       href: https://github.com/van-jackson/van-jackson.github.io
 output:
   html_document:
-    theme:darkly
+    theme: darkly
