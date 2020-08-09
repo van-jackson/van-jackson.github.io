@@ -1,0 +1,17 @@
+---
+title: "Van Jackson"
+date: 2020
+output:
+  html_document: default
+
+---
+## Education
+- Fourth Year at University of California, Santa Barbara
+- High school diploma
+
+---
+
+## Experience
+- Took Comp Sci 8 as an intro to python
+- Have used google Earth and Earth null for geographical studies
+- Solid background in statistics for data analysis
