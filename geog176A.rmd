@@ -18,3 +18,13 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 
 ---
 
+#Lab 2
+[Lab 02: Covid](https://van-jackson.github.io/geog-176A-labs/lab-02.html)
+- learned 1
+
+---
+
+
+#Lab 3
+[Lab 03: Distances and Projections](https://van-jackson.github.io/geog-176A-labs/lab-03.html)
+- learned 1
