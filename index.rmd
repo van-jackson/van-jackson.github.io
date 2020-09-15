@@ -11,6 +11,13 @@ title: "About Me"
 `r icon::fa("globe", color = "blue", size = 3)`
 <center>
 
+Github
+[My Github Page](https://github.com/van-jackson)
+
+My Email: jacksonvan1@gmail.com
+
   I am a fourth year undergraduate student at University of California, Santa Barbara. I am a GIS major focused on data analysis. As of right now I am interested in population distribution and their relations to geographical features.
 
   Outside of school I work as a valet/bellman for a hotel in Newport Beach. My hobbies also include hiking, surfing, and rock climbing.
+  
+  In geog 176A at UCSB I learned how to implement real world data into R and edit it in a way to present different types of plots and show data in ways I wanted to
